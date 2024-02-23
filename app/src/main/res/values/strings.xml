@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Problema2Unad</string>
+    <string-array name="plazos_array">
+        <item>6</item>
+        <item>12</item>
+        <item>18</item>
+    </string-array>
+</resources>
