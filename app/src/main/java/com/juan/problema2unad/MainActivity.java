@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(this,"",Toast.LENGTH_LONG).show();
             }
         }catch (Exception e){
-            Toast.makeText(this,"Lina Carlos informa: debes Ingresar todos los datos",Toast.LENGTH_LONG).show();
+            Toast.makeText(this,"Juan Carlos informa: debes Ingresar todos los datos",Toast.LENGTH_LONG).show();
         }
         //String valor = String.valueOf(monto);
         //Log.i("MainActivity",nombre);
